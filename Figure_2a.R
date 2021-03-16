@@ -1,4 +1,4 @@
-#library(Rfast)
+library(Rfast)
 library(igraph)
 library(ggplot2)
 library(reshape2)
